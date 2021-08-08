@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Free CRM Project Test Automation Suite" duration-ms="67741" started-at="2021-08-07T19:10:12 IST" finished-at="2021-08-07T19:11:20 IST">
+    <groups>
+    </groups>
+    <test name="Sanity" duration-ms="67741" started-at="2021-08-07T19:10:12 IST" finished-at="2021-08-07T19:11:20 IST">
+      <class name="com.crm.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="setup" is-config="true" duration-ms="24410" started-at="2021-08-07T19:10:12 IST" finished-at="2021-08-07T19:10:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="loginPageTitleTest" duration-ms="129" started-at="2021-08-07T19:10:36 IST" finished-at="2021-08-07T19:10:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="tearDown" is-config="true" duration-ms="1236" started-at="2021-08-07T19:10:37 IST" finished-at="2021-08-07T19:10:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="setup" is-config="true" duration-ms="14228" started-at="2021-08-07T19:10:38 IST" finished-at="2021-08-07T19:10:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="crmLogoTest()[pri:2, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="crmLogoTest" duration-ms="413" started-at="2021-08-07T19:10:52 IST" finished-at="2021-08-07T19:10:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="tearDown" is-config="true" duration-ms="1015" started-at="2021-08-07T19:10:52 IST" finished-at="2021-08-07T19:10:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="setup" is-config="true" duration-ms="14462" started-at="2021-08-07T19:10:54 IST" finished-at="2021-08-07T19:11:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="loginTest" duration-ms="10764" started-at="2021-08-07T19:11:08 IST" finished-at="2021-08-07T19:11:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.test.LoginPageTest@66d1af89]" name="tearDown" is-config="true" duration-ms="953" started-at="2021-08-07T19:11:19 IST" finished-at="2021-08-07T19:11:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.test.LoginPageTest -->
+    </test> <!-- Sanity -->
+  </suite> <!-- Free CRM Project Test Automation Suite -->
+</testng-results>

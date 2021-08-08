@@ -1,0 +1,4 @@
+# Created at 2021-08-08T13:24:36.886
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Weekend Batch 8\FreeCRMProject_HybridFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
